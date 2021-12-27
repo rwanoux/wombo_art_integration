@@ -1,0 +1,15 @@
+{
+    "name": "wombo_art_integration",
+    "title": "wombo_art_integration",
+    "description": "wombo art in foundry vtt",
+    "author": "Rwanoux",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.8.0",
+    "compatibleCoreVersion": "0.9.1",
+    "esmodules": [
+        "./scripts/main.js"
+    ],
+    "styles": [
+        "./style/main.css"
+    ]
+}
